@@ -3,7 +3,6 @@ package com.example.stringtest;
 import org.junit.Assert;
 import org.testng.annotations.Test;
 
-
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
