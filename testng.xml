@@ -4,7 +4,9 @@
     <test verbose="2" preserve-order="true" name="C:/DevStudio/Projects/java-string-testng/stringtest/src/test/java/com/example/stringtest/StringUtilTest.java">
         <classes>
             <class name="com.example.stringtest.StringUtilTest">
+                
                 <methods>
+                  
                     <include name="testIsEmpty"/>
                     <include name="testCapitalize"/>
                 </methods>
