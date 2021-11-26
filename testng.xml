@@ -5,7 +5,6 @@
         <classes>
             <class name="com.example.stringtest.StringUtilTest">
                 <methods>
-                    
                     <include name="testIsEmpty"/>
                     <include name="testCapitalize"/>
                 </methods>
