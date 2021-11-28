@@ -9,6 +9,7 @@
                     <include name="testIsEmpty"/>
                     
                     
+               
                     <include name="testCapitalize"/>
                 </methods>
             </class>
